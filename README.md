@@ -4,7 +4,7 @@
 ## 🎯 Objectif 
 Devenir pentester (hacker éthique) et progresser en cybersécurité.
 
-## 📚 Ce que j’apprends
+## 📚 Ce que j’apprends 
 - Linux (Kali Linux)
 - Réseaux (TCP/IP, ports, HTTP)
 - Cybersécurité offensive (pentest)
