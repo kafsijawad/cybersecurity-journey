@@ -1,7 +1,7 @@
 # cybersecurity-journey
 # 🛡️ Cybersecurity Learning Journey
 
-## 🎯 Objectif
+## 🎯 Objectif 
 Devenir pentester (hacker éthique) et progresser en cybersécurité.
 
 ## 📚 Ce que j’apprends
